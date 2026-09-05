@@ -1,1 +1,1 @@
-These are scripts in python , As im learning the basics and gaining experience .
+These are scripts in python , As im learning the basics and praticing it .
