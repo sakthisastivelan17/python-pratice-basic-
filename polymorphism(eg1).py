@@ -1,3 +1,8 @@
+# polymorphism : 
+
+# here sound is one method but it has many different forms ,so that is polymorphism .
+
+
 class animal:
     def sound(self):
         print("Animal makes sound")
