@@ -15,10 +15,6 @@ Topics Covered
 - File Handling 
 - Practical Projects and Problem-Solving
 
-My Learning Goal 🚀
-
-I am learning Python with a focus on practical applications in Mechanical Engineering and Aerospace Engineering, including engineering calculations, data analysis, and automation.
-
 This repository represents my learning journey, consistent practice, and progress as a Python programmer.
 
 
